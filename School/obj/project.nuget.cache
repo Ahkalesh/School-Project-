@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3yfLSWAGDCMdDaFzRptT3qc2ZNm+mobFJVDtappFBBu8jzFvRVnENQ78Zbdg+2upYwA0XgWR8jlEGdZGi8BiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\School\\School.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
